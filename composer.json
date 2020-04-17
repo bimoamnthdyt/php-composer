@@ -1,0 +1,15 @@
+{
+    "name": "starbhak/belajar-composer",
+    "description": "untuk kebutuhan belajar composer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Bimo Amanta",
+            "email": "bimo.amanta11@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
